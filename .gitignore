@@ -1,0 +1,4 @@
+.venv/
+.vscode/
+data/telegram_data.csv
+data/cleaned_telegram_data
